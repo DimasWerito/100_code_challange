@@ -1,3 +1,8 @@
+"""
+Paint calculator
+"""
+
+
 import math
 
 #calculates number of cans needed to paint a wall
