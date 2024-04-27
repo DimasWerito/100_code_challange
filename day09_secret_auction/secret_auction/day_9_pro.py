@@ -4,7 +4,7 @@ SECRET AUCTION
 
 
 
-from art import logo
+from day10_calculator.calculator.art import logo
 
 print(logo)
 
