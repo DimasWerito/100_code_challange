@@ -4,7 +4,7 @@ CALCULATOR
 
 
 
-from art import logo
+from day11_blackjack.art import logo
 
 def add(n1, n2):
   return n1 + n2
